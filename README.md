@@ -3,9 +3,9 @@
 Ini semua projek buatan ku hehe!
 
 ## 🚀 Tujuan Fitur
-- Efisiensi
+- Lirik Lagu
 - Simpel
-- Berguna (opsional)
+- Just for Fun
 
 ## 🛠️ Tech Stack
 - Python / HTML / CSS / JS (sesuai project)
